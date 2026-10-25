@@ -1,0 +1,14 @@
+node_modules/
+frontend/dist/
+frontend/.vite/
+backend/.venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/recode.db
+.env
+.env.*
+!.env.example
+!**/.env.example
+.vercel/
+backend/.env
+.DS_Store
